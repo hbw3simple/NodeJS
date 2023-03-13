@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Um repositório feito para treinar usando JS e NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simple-c1/Nodejs.git"
+  },
+  "author": "Simple (Gustavo)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simple-c1/Nodejs/issues"
+  },
+  "homepage": "https://github.com/simple-c1/Nodejs#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
